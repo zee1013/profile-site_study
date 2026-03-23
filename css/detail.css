@@ -29,6 +29,7 @@ body {
     margin-bottom: 30px;
     font-size: 14px;
     color: #555;
+    display: block;
 }
 /* 프로필 */
 .detail-profile{
